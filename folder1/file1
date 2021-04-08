@@ -1,0 +1,2 @@
+tech = 'hello world'
+print (tech)
